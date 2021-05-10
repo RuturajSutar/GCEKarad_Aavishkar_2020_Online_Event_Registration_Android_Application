@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175873437825",
+    "firebase_url": "https://gcek-aavishkar-reg.firebaseio.com",
+    "project_id": "gcek-aavishkar-reg",
+    "storage_bucket": "gcek-aavishkar-reg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175873437825:android:a8c833d896a30a2b3b1d80",
+        "android_client_info": {
+          "package_name": "com.example.gcekaavishkarregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175873437825-r47t1uurrhemrks352ie6mqmbj497e17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gcekaavishkarregistration",
+            "certificate_hash": "8f4a3f5a79c636dfe8b3ec14d5096b600a1f55ec"
+          }
+        },
+        {
+          "client_id": "175873437825-r3fp35j6t51r7adlppmapld10fn4sa48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVoY3BmzUuf4DpwwDr--W0AkWkdzIBKX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175873437825-r3fp35j6t51r7adlppmapld10fn4sa48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
